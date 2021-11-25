@@ -1,0 +1,12 @@
+{
+  "name": "i18next-cli-112-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/neetlab/i18next-cli-112-repro.git",
+  "author": "Ryo Igarashi <n33t5hin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "i18next": "^21.5.3",
+    "i18next-cli-language-detector": "^1.0.1"
+  }
+}
